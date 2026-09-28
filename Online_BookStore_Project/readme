@@ -1,6 +1,6 @@
 # Online BookStore Project
 
-A PostgreSQL-based **Online BookStore database project** designed to practice SQL concepts such as table creation, relationships, joins, aggregation, subqueries, filtering, grouping, and sorting.
+A PostgreSQL-based Online BookStore database project designed to practice SQL concepts such as table creation, relationships, joins, aggregation, subqueries, filtering, grouping, and sorting.
 
 # Project Overview
 
@@ -59,3 +59,15 @@ Customers
     │ Book_ID
     │
   Books
+
+# Project structure
+
+Online_BookStore_Project
+│
+├── Books.csv
+├── Customers.csv
+├── Orders.csv
+├── data_import.sql
+├── basic_queries.sql
+├── adv_queries.sql
+└── README.md
