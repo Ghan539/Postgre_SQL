@@ -1,1 +1,61 @@
+# Online BookStore Project
 
+A PostgreSQL-based **Online BookStore database project** designed to practice SQL concepts such as table creation, relationships, joins, aggregation, subqueries, filtering, grouping, and sorting.
+
+# Project Overview
+
+This project manages an online bookstore using three main entities:
+
+- Books     – Stores book information, prices, genres, and stock.
+- Customers – Stores customer details.
+- Orders    – Stores customer purchases and order information.
+
+The database uses Primary Keys and Foreign Keys to maintain relationships between the tables.
+
+#  Database Structure
+
+# Books
+
+| Column | Description |
+
+| Book_ID | Unique book ID |
+| Title | Book title |
+| Author | Book author |
+| Genre | Book genre |
+| Published_Year | Publication year |
+| Price | Book price |
+| Stock | Available stock |
+
+# Customers
+
+| Column | Description |
+
+| Customer_ID | Unique customer ID |
+| Name | Customer name |
+| Email | Customer email |
+| Phone | Customer phone |
+| City | Customer city |
+| Country | Customer country |
+
+# Orders
+
+| Column | Description |
+
+| Order_ID | Unique order ID |
+| Customer_ID | Customer reference |
+| Book_ID | Book reference |
+| Order_Date | Date of order |
+| Quantity | Number of books ordered |
+| Total_Amount | Total order amount |
+
+# Relationships
+
+Customers
+    │
+    │ Customer_ID
+    ▼
+  Orders
+    ▲
+    │ Book_ID
+    │
+  Books
