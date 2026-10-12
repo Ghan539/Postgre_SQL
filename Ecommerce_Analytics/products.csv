@@ -1,0 +1,76 @@
+﻿product_id,product_name,category,price
+1,Wireless Mouse,Electronics,599
+2,Bluetooth Headphones,Electronics,1499
+3,USB-C Cable,Electronics,299
+4,Power Bank 20000mAh,Electronics,1799
+5,Smart Watch,electronics,2499
+6,Bluetooth Speaker,Electronics,1299
+7,Laptop Stand,Electronics,899
+8,Webcam HD,Electronics,1899
+9, Mechanical Keyboard ,Electronics,3299
+10,Phone Case,Electronics,399
+11,USB Hub,Electronics,799
+12,Portable SSD 1TB,Electronics,6499
+13,Monitor 24 inch,Electronics,
+14,Gaming Mouse Pad,Electronics,499
+15,Laptop Sleeve,Electronics,999
+16,Electric Kettle,Home & Kitchen,1199
+17,Mixer Grinder,Home & Kitchen,2899
+18,Storage Containers Set,home & kitchen,699
+19,Bedsheet Double,Home & Kitchen,999
+20,LED Desk Lamp,Home & Kitchen,799
+21,Water Bottle Steel,Home & Kitchen,499
+22,Non-stick Pan,Home & Kitchen,1099
+23,Air Fryer,Home & Kitchen,5499
+24, Vacuum Cleaner ,Home & Kitchen,4999
+25,Wall Clock,Home & Kitchen,599
+26,Lunch Box,Home & Kitchen,649
+27,Induction Cooktop,Home & Kitchen,2499
+28,Pillow Set,Home & Kitchen,899
+29,Floor Mat,Home & Kitchen,399
+30,Cookware Set,Home & Kitchen,3499
+31,Cotton T-Shirt,Fashion,499
+32,Denim Jeans,Fashion,1299
+33,Running Shoes,fashion,2199
+34,Backpack,Fashion,999
+35,Kurta,Fashion,899
+36,Hoodie,Fashion,1499
+37,Sunglasses,Fashion,0
+38,Formal Shirt,Fashion,1199
+39,Sports Socks Pack,Fashion,299
+40,Wallet,Fashion,699
+41,Casual Sneakers,Fashion,1799
+42,Handbag,Fashion,1499
+43,Track Pants,Fashion,899
+44,Winter Jacket,Fashion,2499
+45,Belt,,499
+46,Data Analytics Handbook,Books,599
+47,SQL for Beginners,Books,449
+48,Python Programming,Books,699
+49,Business Statistics,Books,549
+50,Atomic Habits,books,399
+51,Deep Work,Books,349
+52,Machine Learning Basics,Books,799
+53,Rich Dad Poor Dad,Books,299
+54,The Psychology of Money,Books,349
+55, Storytelling with Data ,Books,649
+56,Database System Concepts,Books,899
+57,Clean Code,Books,699
+58,Design of Algorithms,Books,599
+59,The Lean Startup,Books,499
+60,Data Science for Business,Books,749
+61,Face Wash,Beauty & Personal Care,249
+62,Moisturizer,Beauty & Personal Care,399
+63,Shampoo,beauty & personal care,299
+64,Sunscreen SPF 50,Beauty & Personal Care,499
+65,Perfume,Beauty & Personal Care,1299
+66,Hair Dryer,Beauty & Personal Care,1599
+67,Electric Trimmer,Beauty & Personal Care,1199
+68,Body Lotion,Beauty & Personal Care,349
+69,Lip Balm,Beauty & Personal Care,-199
+70,Face Serum,Beauty & Personal Care,699
+71,Conditioner,Beauty & Personal Care,329
+72, Makeup Kit ,Beauty & Personal Care,999
+73,Beard Oil,Beauty & Personal Care,299
+74,Hand Cream,Beauty & Personal Care,199
+75,Bath Essentials Set,Beauty & Personal Care,799
